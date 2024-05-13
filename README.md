@@ -5,6 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/cross_entrippy" target="blank"><img src="https://img.shields.io/twitter/follow/cross_entrippy?logo=twitter&style=for-the-badge" alt="cross_entrippy" /></a> </p>
 
+### About Me 🌟
+
+I'm Aditya, a developer based in San Diego, USA. With 7+ years in ML, my AI journey started during my undergrad in CS and continued through my work at Amex AI Labs and my MS at UCSD. Now, I focus on conversational AI using LLMs and work on open source tool called Prompt-Learner. I released [prompt-learner](https://github.com/attuna-xyz/prompt-learner), aiming to embed reliable, production-grade general intelligence in software.
+
+I created a viral WordPress blog at 15, reviewing phones and sharing custom ROMs, earning 1M weekly views and my first $500 from Google AdSense. I thrive on solving problems and breaking down complex issues.
+
+If money were no object, I'd create speed-of-light personal travel pods. For now, my dream is to keep building and scaling cool things.
+
+Let's connect!
+
+
 - 🔭 I’m currently working on [prompt-learner](https://github.com/attuna-xyz/prompt-learner)
 
 - 👨‍💻 All of my projects are available at [https://www.adilahiri.xyz/](https://www.adilahiri.xyz/)
