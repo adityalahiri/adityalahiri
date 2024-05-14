@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=MLE+based+out+of+San+Diego;Conversational+AI%2C+Agents+%26+Prompts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3151F7&random=false&width=435&lines=MLE+based+out+of+San+Diego;Conversational+AI%2C+Agents+%26+Prompts)](https://git.io/typing-svg)
 <p align="left"> <a href="https://twitter.com/cross_entrippy" target="blank"><img src="https://img.shields.io/twitter/follow/cross_entrippy?logo=twitter&style=for-the-badge" alt="cross_entrippy" /></a> </p>
 
 ### About Me 🌟
